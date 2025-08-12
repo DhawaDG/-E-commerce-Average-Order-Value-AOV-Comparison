@@ -52,8 +52,8 @@ The dataset contains order values for users in two groups:
 - Evaluating practical vs. statistical significance in business decisions
 
 ## 🔗 References
-- [Trustworthy Online Controlled Experiments - Ron Kohavi]()
-- [Practical Statistics for Data Scientists]()
+- [Trustworthy Online Controlled Experiments - Ron Kohavi](https://www.scribd.com/document/711189937/Kohavi-Diane-Tang-Xu-Trustworthy-Online-Controlled-Experiments-A-Practical-Guide-to-AB-Testing-2020)
+- [Practical Statistics for Data Scientists](https://github.com/DhawaDG/Email-Newsletter-Signup-Optimization/blob/master/reference%20book/Practical%20Statistics%20for%20Data%20Scientists%20(%20PDFDrive%20).pdf)
 - [SciPy t-test Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
 
 ## 🚀 Next Steps
@@ -63,3 +63,4 @@ The dataset contains order values for users in two groups:
 
 ---
 📂 [**+20 AB Testing Projects →**](https://github.com/DhawaDG/AB_Testing_Project/blob/main/README.md)
+
